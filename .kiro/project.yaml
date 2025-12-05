@@ -1,0 +1,17 @@
+project:
+  name: "Kiro Workshop 1 Project"
+  description: "Submission for Workshop 1, including RAG, ingestion patterns, metadata configs, re-ranking, and evaluation."
+  version: "1.0.0"
+
+metadata:
+  format: "yaml"
+  author: "Poornima"
+  created: "2025-11-27"
+
+components:
+  - ingestion
+  - hybrid_search
+  - advanced_chunking
+  - re_ranking
+  - metadata_filtering
+  - rag_evaluation
